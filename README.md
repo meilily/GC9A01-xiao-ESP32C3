@@ -3,7 +3,7 @@ Code for Waveshare GC9A01 and Seeed Studio XIAO ESP32C3
 
 Components:
 - [Waveshare 240×240, 1.28inch LCD Display Module](https://www.waveshare.com/1.28inch-lcd-module.htm) Embedded GC9A01 Driver, Using SPI Bus
-- [Studio XIAO ESP32C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) tiny MCU board with Wi-Fi and Bluetooth5.0, battery charge supported, power efficiency and rich Interface
+- [Seeed Studio XIAO ESP32C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) tiny MCU board with Wi-Fi and Bluetooth5.0, battery charge supported, power efficiency and rich interfaces
 
 Support me: [Buy Me A Coffee](https://www.buymeacoffee.com/printminion)
 
